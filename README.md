@@ -1,5 +1,5 @@
 ## Screenshots 
-<img src="https://user-images.githubusercontent.com/60056833/115282094-67328680-a167-11eb-99f6-efe54a57793a.png"  width="200" height="400" /> <img src="https://user-images.githubusercontent.com/60056833/115282098-68fc4a00-a167-11eb-9669-b68dd3a25540.png"  width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/60056833/115282094-67328680-a167-11eb-99f6-efe54a57793a.png"  width="288" height="608" /> <img src="https://user-images.githubusercontent.com/60056833/115282098-68fc4a00-a167-11eb-9669-b68dd3a25540.png"  width="288" height="608" />
 
 ### Design inspiration
 https://dribbble.com/shots/4585382-Simple-BMI-Calculator
